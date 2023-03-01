@@ -1,0 +1,19 @@
+style
+        h1 { 
+            font-family: 'Phudu', cursive;
+            font-weight: bold;
+            color: black;
+        }
+        h2 {
+            font-family: 'Gloock', serif;
+        }
+        h3 {
+            font-family: 'Playfair Display', serif;
+        }
+        h4 { 
+            font-family: 'Inconsolata', monospace;
+        }
+        p {
+            font-family: 'Source Sans Pro', sans-serif;
+            color: black ;
+        }
